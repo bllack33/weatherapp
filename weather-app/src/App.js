@@ -5,7 +5,7 @@ import WeatherLocation from './components/WeatherLocation';
 function App() {
   return (
     <div className="App">
-     <WeatherLocation></WeatherLocation>      
+     <WeatherLocation city="Medellín,co"></WeatherLocation>      
     </div>
   );
 }
